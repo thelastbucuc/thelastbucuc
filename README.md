@@ -1,4 +1,4 @@
-# Hi there, I'm thelastbucuc! 👋
+# Hi there, I'm thelastbucuc!
 
 I am a passionate Game Developer dedicated to mastering Godot 4. I've recently completed a structured journey of building **8 diverse games**, each focusing on different technical challenges from AI pathfinding to data-driven level design.
 
